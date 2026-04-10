@@ -15,8 +15,6 @@ The data flows from the physical water canal to a public web dashboard without r
 
 `Water Canal` ➔ `Hall Sensor` ➔ `ESP32` ➔ `LoRaWAN (868 MHz)` ➔ `TTN Gateway` ➔ `The Things Network` ➔ `Webhook` ➔ `openSenseMap`
 
----
-
 ## Hardware Setup & Hydrodynamics
 
 ### Electronic Components
@@ -28,11 +26,9 @@ The data flows from the physical water canal to a public web dashboard without r
 * LoRa antenna
 
 ### Hydrodynamic Design
-To ensure highly accurate readings in turbulent canal water, the submerged probe features:
-1.  **Conical Intake Screen** which reduces hydraulic resistance and prevents the organic debris from getting into sensor turbine.
-2.  **Flow Straightener:** A pipe section placed upstream of the sensor turbine to eliminate swirls of water.
-
----
+To ensure accurate readings in turbulent canal water, the submerged probe features:
+1.  Conical Filter which reduces hydraulic resistance and prevents the organic debris from getting into sensor turbine.
+2.  Flow Straightener: A pipe section placed upstream of the sensor turbine to eliminate swirls of water.
 
 ## Software & Dependencies
 
