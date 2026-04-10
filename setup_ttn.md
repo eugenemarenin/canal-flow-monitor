@@ -1,6 +1,6 @@
 # The Things Network (TTN) Configuration
 
-This guide explains how to register ESP32 node on The Things Network and configure the data routing.
+This guide explains how to register a node on The Things Network and configure the data routing.
 
 ## 1. Register the End Device
 1. Log in to your [TTN Console](https://eu1.cloud.thethings.network/console/).
