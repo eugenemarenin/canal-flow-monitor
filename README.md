@@ -6,6 +6,10 @@ This repository contains description and code used for an autonomous LoRaWAN wat
 ![The Things Network](https://img.shields.io/badge/The_Things_Network-0000FF?style=for-the-badge&logo=thethingsnetwork&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 
+## Authors
+
+Evgenii Marenin, Sofiia Makhortova (University of Münster's Institute of Geoinformatics students)
+
 ## Live Data
 During the worktime of sensor, real-time data is being sent to openSenseMap: https://opensensemap.org/explore/69d6b6491abd3400085b214c
 
